@@ -5,7 +5,7 @@ Code for "Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbal
 - main.py: the core of our model, including the structure and the process of training.
 - calculator.py: the code about calculating Poincare embedding and class-aware Ricci curvature weights
 - dataloader.py: providing data loading and processing. 
-- models/: including the basic layers we used in the main model.
+- models/: including the backbones we used in the main model.
 
 # Environment
 Our experimental environments are listed in `environments.yaml`, you can create a virtual environment with conda and run the following order.
